@@ -1,1 +1,1 @@
-# FullStack-BookingApp-BookITApp
+# BookingApp
